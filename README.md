@@ -16,3 +16,7 @@
 - Netflix GPT
   - Search Bar
   - Movie Suggestions
+
+
+# ShortCuts
+  - rafce - this creates the components fastly.
