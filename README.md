@@ -12,6 +12,7 @@
 - update the user with the input details with the redux store
 - implemented signout 
 - redirect the page accordingly using useNavigate hook
+- Move all the constants to a different file (if needed)
  
 
 # Firebase Deployment
