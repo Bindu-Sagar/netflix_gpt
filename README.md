@@ -13,7 +13,12 @@
 - implemented signout 
 - redirect the page accordingly using useNavigate hook
 - Move all the constants to a different file (if needed)
- 
+- Using the TMDB website for the API
+- Choose one of the API and fetch it accoreding to the instructions
+- fetch the trailer details using id in the movie api
+- fetch the trailer video from youtube embedded code
+- adding the tailwind css to configure the trailer to run in the background
+
 
 # Firebase Deployment
 - firebase Login
